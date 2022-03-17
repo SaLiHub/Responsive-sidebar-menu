@@ -12,23 +12,23 @@ let menuItems = [{
 }, {
 	id: 1,
 	name: 'Notifications',
-  logoName: 'home-alt'
+  logoName: 'bell'
 }, {
 	id: 2,
 	name: 'Analytics',
-  logoName: 'home-alt'
+  logoName: 'pie-chart-alt'
 }, {
 	id: 3,
 	name: 'Revenue',
-  logoName: 'home-alt'
+  logoName: 'bar-chart-alt-2'
 }, {
 	id: 4,
 	name: 'Likes',
-  logoName: 'home-alt'
+  logoName: 'heart'
 }, {
 	id: 5,
 	name: 'Wallet',
-  logoName: 'home-alt'
+  logoName: 'wallet'
 }];
 
 // app.post('/users/:id', (req, res) => {
