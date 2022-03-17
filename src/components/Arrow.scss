@@ -1,0 +1,14 @@
+.arrow {
+  width: 20px;
+  height: 20px;
+  background-color: #393d3b;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  &:hover {
+    background-color: rgb(185, 178, 169);
+    transition: background-color 200ms;
+  }
+}
