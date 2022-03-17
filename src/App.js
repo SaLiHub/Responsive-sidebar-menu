@@ -1,4 +1,4 @@
-import NavSidebar from "./nav-sidebar/NavSidebar.tsx";
+import NavSidebar from "./components/NavSidebar.tsx";
 
 const App = () => {
   return(
